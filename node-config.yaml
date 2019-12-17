@@ -5,7 +5,7 @@ log:
    format: plain 
 p2p:
   listen_address: "/ip4/0.0.0.0/tcp/3202"
-  public_address: "/ip4/68.69.77.141/tcp/3202"
+  public_address: "/ip4/0.0.0.0/tcp/3202"
   topics_of_interest:
     blocks: "high"
     messages: "high"
